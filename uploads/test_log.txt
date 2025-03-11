@@ -1,0 +1,6 @@
+2024-03-10 12:45:32 ERROR Something went wrong
+2024-03-10 12:46:10 INFO Process started
+2024-03-11 14:12:10 WARNING Low memory
+2024-03-11 16:05:42 DEBUG Debugging application
+2024-03-12 09:00:00 ERROR Database connection failed
+2024-03-12 10:30:15 INFO System rebooted successfully
