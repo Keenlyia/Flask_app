@@ -31,14 +31,6 @@ python
 >>> db.create_all()
 >>> exit()
 ```
-
----
-
-## 🛠 Configuration
-Edit `app.py` to modify settings such as:
-- `SECRET_KEY` for JWT authentication
-- `SQLALCHEMY_DATABASE_URI` for database configuration
-
 ---
 
 ## ▶️ Running the Application
