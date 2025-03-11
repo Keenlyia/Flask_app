@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### 🛠 Database Initialization
 ```sh
 python
->>> from app import db
+>>> from main import db
 >>> db.create_all()
 >>> exit()
 ```
