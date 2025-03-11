@@ -1,4 +1,4 @@
-🚀 Flask File Upload & Log Processing API
+# Flask File Upload & Log Processing API
 
 This Flask-based API allows users to upload, extract, and filter files (TXT, ZIP, RAR). It also provides JWT authentication and log processing capabilities.
 
