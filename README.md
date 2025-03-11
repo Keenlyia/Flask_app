@@ -2,17 +2,17 @@
 
 This Flask-based API allows users to upload, extract, and filter files (TXT, ZIP, RAR). It also provides JWT authentication and log processing capabilities.
 
-✨ Features
+## ✨ Features
 
-🔐 User registration & authentication (JWT-based)
+- User registration & authentication (JWT-based)
 
-📂 File upload & extraction (ZIP, RAR, TXT)
+- File upload & extraction (ZIP, RAR, TXT)
 
-🔎 File filtering by name, type, or date
+- File filtering by name, type, or date
 
-📝 Log filtering by date range or keyword
+- Log filtering by date range or keyword
 
-⚙️ Installation
+## Installation
 
 📌 Prerequisites
 
