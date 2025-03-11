@@ -19,12 +19,6 @@ This Flask-based API allows users to upload, extract, and filter files (TXT, ZIP
 - 🐍 Python 3.x
 - 📦 pip
 
-### 📥 Clone the Repository
-```sh
-git clone <your-repo-url>
-cd <your-repo-folder>
-```
-
 ### 📌 Install Dependencies
 ```sh
 pip install -r requirements.txt
@@ -49,7 +43,7 @@ Edit `app.py` to modify settings such as:
 
 ## ▶️ Running the Application
 ```sh
-python app.py
+python main.py
 ```
 
 ---
@@ -153,8 +147,3 @@ GET /logs
   }
 ]
 ```
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
